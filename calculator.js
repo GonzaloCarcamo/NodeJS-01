@@ -12,12 +12,12 @@ var number2 = parseFloat(params[1]);
 //console.log(number2);
 
 
-var sum = `
+var calc = `
 1. the sum is: ${number1 + number2}
 2. the subtraction is: ${number1 - number2}
 3. the multiplication is: ${number1 * number2}
 4. the division is: ${number1 / number2}
 `;
 
-console.log(sum);
+console.log(calc);
 
