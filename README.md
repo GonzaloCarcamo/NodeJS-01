@@ -1,2 +1,5 @@
 # NodeJS-01
- Simple console application with NodeJS.
+ Very simple console application (calculator) with NodeJS.
+ 
+ Aplicación de console muy sencilla (calculadora) con NodeJS.
+ 
